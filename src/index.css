@@ -1,0 +1,14 @@
+@font-face {
+  font-family: syne;
+  src: url(/public/syne.extra.ttf);
+}
+
+@font-face {
+  font-family: synebold;
+  src: url(/public/syne.bold.ttf);
+}
+@font-face {
+  font-family: syneregular;
+  src: url(/public/Syne-Bold.ttf);
+}
+@import "tailwindcss";
